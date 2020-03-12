@@ -15,7 +15,7 @@ BH1750 lightMeter;
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-char auth[] = "";
+char auth[] = "9cxhsp-5Sp37bsGGP_CnHHonM9f-748h";
 char ssid[] = "Embed";
 char pass[] = "weareincontrol";
 
